@@ -8,6 +8,10 @@
     font-weight: bold;
     align-self: start;
   }
+
+  &__strong {
+    font-weight: 600;
+  }
   
   &__link {
     @extend %boldMainColorText;
