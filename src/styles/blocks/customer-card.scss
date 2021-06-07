@@ -30,7 +30,7 @@
   &:hover {
     cursor: pointer;
     box-shadow: 12px 12px 2px 1px rgba(3, 221, 250, 0.2);
-    transform: translateX(-30px);
+    transform: translate(-10px, -30px);
     border: 1px solid $brandColor;
     border-radius: 24px;
   }
